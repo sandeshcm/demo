@@ -1,3 +1,3 @@
 # demo
 This my first Repository
-Authuor Sandesh
+Author Sandesh
